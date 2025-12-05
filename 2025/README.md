@@ -2,8 +2,8 @@
 
 ## Months
 
-- [November](11-November/README.md)
-- [November](12-December/README.md)
+- [11-November](11-November/README.md)
+- [12-December](12-December/README.md)
 
 ## Main Achievements in 2025
 
